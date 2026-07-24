@@ -1,1 +1,1 @@
-<img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>">
+<img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=BD4CF7&width=435&lines=Ol%C3%A1%2C+eu+me+chamo+Gabriel+Chinaglia)](https://git.io/typing-svg)">
