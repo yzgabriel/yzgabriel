@@ -1,1 +1,1 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzhEifcGEOPXSsoDndDSKLpNc432YzBy2swULz1rcbuA&s=10">
+<img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>">
