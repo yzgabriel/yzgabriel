@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=yzgabriel)](https://github.com/stats-organization/github-stats-extended)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yzgabriel/yzgabriel/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yzgabriel/yzgabriel/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/yzgabriel/yzgabriel/output/snake.svg">
 </picture>
