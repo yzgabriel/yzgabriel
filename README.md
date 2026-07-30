@@ -2,8 +2,7 @@
 
 Estou estudando Desenvolvimento de Sistemas no Senai
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=yzgabriel)](https://github.com/stats-organization/github-stats-extended)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yzgabriel&rank_icon=percentile&custom_title=Gabriel%20Chinaglia%20Stats&show_icons=true&include_all_commits=true&theme=nightowl)](https://github-stats-extended.vercel.app/api?username=yzgabriel&rank_icon=percentile&custom_title=Gabriel%20Chinaglia%20Stats&show_icons=true&include_all_commits=true&theme=nightowl)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yzgabriel/yzgabriel/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yzgabriel/yzgabriel/output/snake.svg">
