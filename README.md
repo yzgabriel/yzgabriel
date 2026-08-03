@@ -10,7 +10,7 @@ Estou aprendendo desenvolvimento de sistemas no SENAI
 # 📊 Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yzgabriel&rank_icon=percentile&custom_title=Gabriel%20Chinaglia%20Stats&show_icons=true&include_all_commits=true&theme=nightowl)](https://github-stats-extended.vercel.app/api?username=yzgabriel&rank_icon=percentile&custom_title=Gabriel%20Chinaglia%20Stats&show_icons=true&include_all_commits=true&theme=nightowl)
-$
+
 
 # ✨ Contributions
 
