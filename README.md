@@ -5,7 +5,7 @@ Estou aprendendo desenvolvimento de sistemas no SENAI
 
 # 🛠 Hard Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,git,mint,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cs,cpp,git,)](https://skillicons.dev)
 
 # 📊 Stats
 
